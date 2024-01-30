@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[2]:
-
-
 class Atm:
     def __init__(self,balance,pin):
         import getpass
