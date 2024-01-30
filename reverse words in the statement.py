@@ -3,9 +3,6 @@
 
 # # Using loop
 
-# In[7]:
-
-
 s=input("Enter a statement : ")
 
 def rev(r):
